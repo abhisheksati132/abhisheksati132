@@ -9,8 +9,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-
 </div>
 
 ---
@@ -37,25 +35,6 @@
 | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |  |  |
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhisheksati132&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksati132&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksati132&theme=dracula&hide_border=true" alt="streak stats" />
-</div>
-
----
 
 <div align="center">
     <i>Let's build something amazing together.</i> 🚀
