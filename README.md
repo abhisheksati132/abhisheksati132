@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **High-performance Web Applications**.
 - 🌱 I’m currently learning **Advanced System Design & AI Integration**.
 - 💬 Ask me about **JavaScript and 3D Visualization**.
-- 📫 How to reach me: **abhisheksati132@gmail.com**
+- 📫 How to reach me: **abhisheksativit@gmail.com**
 
 ---
 
