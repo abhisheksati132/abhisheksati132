@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Abhishek Sati
-### CSE (Data Science) Undergrad @ VIT Vellore & Full-Stack Systems Developer
+# Abhishek Sati
+### Computer Science & Engineering (Data Science) @ VIT Vellore
 
 <p align="center">
   <a href="https://abhisheksati.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-abhisheksati.vercel.app-D97757?style=for-the-badge" alt="Portfolio" /></a>
@@ -9,44 +9,33 @@
   <a href="mailto:Abhisheksativit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-```javascript
-const abhishek = {
-  institution: "Vellore Institute of Technology (VIT)",
-  degree: "B.Tech in Computer Science & Engineering (Data Science)",
-  cgpa: "9.08 / 10",
-  coreInterests: [
-    "High-Performance Real-Time Systems",
-    "Geospatial Telemetry & 3D Visualization",
-    "Client-Side Cryptography (Zero-Knowledge E2E)",
-    "Distributed Web Architectures"
-  ],
-  currentFocus: "Building resilient data-intensive web applications"
-};
-```
+<p align="center">
+  Passionate software developer focusing on <b>real-time systems</b>, <b>geospatial telemetry</b>, and <b>client-side zero-knowledge cryptography</b>.
+</p>
 
 </div>
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🌍 NewsAtlas Intelligence Terminal</h3>
       <p align="center">
-        <a href="https://news-atlas-live.vercel.app/"><b>Live Uplink</b></a> |
+        <a href="https://news-atlas-live.vercel.app/"><b>Live Demo</b></a> •
         <a href="https://github.com/abhisheksati132/newsatlaslive"><b>Source Code</b></a>
       </p>
-      <p>Global situational awareness dashboard aggregating live news, regional economic metrics, weather, and stock feeds on a 3D Mapbox globe. Uses Llama 3.3 via Groq AI for instant 10-point geopolitical briefing dossiers.</p>
+      <p>Global situational awareness dashboard aggregating live news, regional economic metrics, weather, and stock feeds on an interactive 3D Mapbox globe. Uses Llama 3.3 via Groq AI for instant 10-point geopolitical briefing dossiers.</p>
       <p>
-        <code>React 19</code> <code>Mapbox GL JS v3</code> <code>Groq AI (Llama 3.3)</code> <code>Vercel Serverless</code> <code>Vite</code>
+        <code>React 19</code> <code>Mapbox GL JS v3</code> <code>Groq AI</code> <code>Vercel Serverless</code> <code>Vite</code>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🔒 Klipport Universal Clipboard</h3>
       <p align="center">
-        <a href="https://klipport.vercel.app"><b>Live Uplink</b></a> |
+        <a href="https://klipport.vercel.app"><b>Live Demo</b></a> •
         <a href="https://github.com/abhisheksati132/klipport"><b>Source Code</b></a>
       </p>
       <p>Secure cross-device clipboard and synchronization platform. Features browser-side zero-knowledge End-to-End Encryption (AES-GCM / PBKDF2) via native Web Crypto API and account-free 6-digit PIN pairing.</p>
@@ -67,14 +56,14 @@ const abhishek = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">⚡ Personal Developer Showcase</h3>
+      <h3 align="center">⚡ Developer Portfolio</h3>
       <p align="center">
-        <a href="https://abhisheksati.vercel.app"><b>Live Uplink</b></a> |
+        <a href="https://abhisheksati.vercel.app"><b>Live Site</b></a> •
         <a href="https://github.com/abhisheksati132/portfolio"><b>Source Code</b></a>
       </p>
-      <p>High-performance developer portfolio featuring a warm editorial design system, dark/light theme switching, 1-click clipboard integration, keyboard shortcuts, and 100/100 performance score.</p>
+      <p>High-performance personal showcase featuring a warm editorial design system, dark/light theme switching, 1-click clipboard email integration, keyboard navigation, and 100/100 performance score.</p>
       <p>
-        <code>HTML5</code> <code>Custom CSS3</code> <code>JavaScript (ES6+)</code> <code>SEO Optimized</code>
+        <code>HTML5</code> <code>CSS3</code> <code>JavaScript (ES6+)</code> <code>SEO Optimized</code>
       </p>
     </td>
   </tr>
@@ -82,42 +71,35 @@ const abhishek = {
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Stack
 
 <div align="center">
 
-| Domain | Technologies & Tools |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | `C++` `Python` `Java` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3` |
 | **Frontend & 3D** | `React 19` `Mapbox GL JS v3` `Tailwind CSS v4` `Vite` `Next.js` |
 | **Backend & Real-Time** | `Node.js` `Express.js` `Socket.io` `WebSockets` `WebRTC` `REST APIs` |
-| **Databases & Cloud** | `PostgreSQL` `Supabase (DB & Storage)` `MongoDB` `Vercel Serverless` |
+| **Databases & Cloud** | `PostgreSQL` `Supabase` `MongoDB` `Vercel Serverless` |
 | **Security & Systems** | `Web Crypto API (AES-GCM / PBKDF2)` `Client-Side E2EE` `Data Telemetry` |
-| **Data Science & Dev Tools** | `Pandas` `NumPy` `Scikit-Learn` `Git` `GitHub` `Linux` `VS Code` `Postman` |
+| **Tools & Data Science** | `Pandas` `NumPy` `Scikit-Learn` `Git` `GitHub` `Linux` `VS Code` `Postman` |
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Telemetry
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksati132&show_icons=true&theme=tokyonight&hide_border=true&title_color=D97757&icon_color=D97757&text_color=c0caf5&bg_color=1a1b26" height="160" alt="Abhishek's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksati132&layout=compact&theme=tokyonight&hide_border=true&title_color=D97757&text_color=c0caf5&bg_color=1a1b26" height="160" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksati132&theme=tokyonight&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=D97757" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksati132&theme=tokyonight&hide_border=true&ring=D97757&fire=D97757&currStreakLabel=D97757" height="150" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📬 Get In Touch
+### 📬 Connect With Me
 
-- **Portfolio**: [abhisheksati.vercel.app](https://abhisheksati.vercel.app)
-- **LinkedIn**: [linkedin.com/in/abhisheksati132](https://www.linkedin.com/in/abhisheksati132)
-- **Email**: [Abhisheksativit@gmail.com](mailto:Abhisheksativit@gmail.com)
-
-<div align="center">
-  <sub>Designed & built with focus by Abhishek Sati. Always open to high-impact software engineering opportunities.</sub>
-</div>
+<p align="center">
+  <b>Portfolio:</b> <a href="https://abhisheksati.vercel.app">abhisheksati.vercel.app</a> &nbsp;|&nbsp;
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abhisheksati132">abhisheksati132</a> &nbsp;|&nbsp;
+  <b>Email:</b> <a href="mailto:Abhisheksativit@gmail.com">Abhisheksativit@gmail.com</a>
+</p>
